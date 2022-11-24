@@ -1,4 +1,4 @@
-https://watch.screencastify.com/v/rHjMr4UlwFOGRWooT8QJ
+
 
 # Social Media API
 
@@ -12,6 +12,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demonstration](#demonstration)
 - [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
@@ -37,6 +38,10 @@ From there, users may explore the application through the local browser or Insom
 GET: http://localhost:3001/api/users
 
 GET: http://localhost:3001/api/thoughts
+
+## Demonstration
+
+For further information on usage of the application, please follow [this link](https://watch.screencastify.com/v/rHjMr4UlwFOGRWooT8QJ) to view a video recording of how the routes are utilized.
 
 ## Credits
 
